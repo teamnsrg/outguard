@@ -17,12 +17,11 @@ The nodejs module can identify different types of cryptojacking libraries. The c
 ```
  node engine.js http://bbc.com
 ```
-
-Outguard has two parts: (1) an instrumented browser, and (2) a model learning module. The mo
-
+Outguard has two parts: (1) an instrumented browser, and (2) a model learning module. The instrumented browser is using remote debugging protocol to create the CPU traces. The output is saved as a devtool.trace file. The second module is a learning module which processes the output traces and models the access pattern. 
 
 
 # Citation 
+```
 @misc{kharraz:2019:cryptojacking,
  AUTHOR = {Amin Kharraz and Zane Ma and Paul Murley and Charles Lever and Joshua Mason and Andrew Miller and Manos Antonakakis and Michael Bailey },
  TITLE = {{Outguard: Detecting In-Browser Covert Cryptocurrency Mining in the Wild}},
@@ -32,3 +31,4 @@ Outguard has two parts: (1) an instrumented browser, and (2) a model learning mo
  DAY = {13--17},
  YEAR = {2019},
 }
+```
