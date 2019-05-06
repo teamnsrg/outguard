@@ -17,9 +17,8 @@ The nodejs module can identify different types of cryptojacking libraries. The c
 ```
  node driver_engine.js http://bbc.com
 ```
-We used the collected dataset along with a benign set to train our model. 
+The collected cryptojacking websites were then visited by the customized instrumented browser to record the interaction of the libraries with browser resources and train the automatic model. 
 
-Outguard has two parts: (1) an instrumented browser, and (2) a model learning module. The instrumented browser is using remote debugging protocol to create the CPU traces. The output is saved as a devtool.trace file. The second part is a learning module which processes the output traces and models the access pattern. 
 
 
 # Citation 
