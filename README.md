@@ -11,13 +11,15 @@ the prevalence of cryptojacking websites and the shared infrastructure that prov
 
 # Modules and Related Source Code
 
-To collect a set of cryptojacking websites, we build a nodejs module on top of Wappalyzer -- a library identification module. 
+To create a labeled dataset of cryptojacking websites, we build a nodejs module on top of Wappalyzer -- a library identification module. 
 The nodejs module can identify different types of cryptojacking libraries. The corresponding data is located in js_fingerprint path. Make sure the latest version of Nodejs. 
 
 ```
- node engine.js http://bbc.com
+ node driver_engine.js http://bbc.com
 ```
-Outguard has two parts: (1) an instrumented browser, and (2) a model learning module. The instrumented browser is using remote debugging protocol to create the CPU traces. The output is saved as a devtool.trace file. The second module is a learning module which processes the output traces and models the access pattern. 
+We used the collected dataset along with a benign set to train our model. 
+
+Outguard has two parts: (1) an instrumented browser, and (2) a model learning module. The instrumented browser is using remote debugging protocol to create the CPU traces. The output is saved as a devtool.trace file. The second part is a learning module which processes the output traces and models the access pattern. 
 
 
 # Citation 
