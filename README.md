@@ -40,3 +40,5 @@ Similar to the standard devtool api, you need to run the code on port 9222 to en
  YEAR = {2019},
 }
 ```
+## Contacts
+Please send an email to kharraz@illinois.edu if you have any questions. 
