@@ -1,0 +1,93 @@
+{
+  "requestId": "A57CD7461C1421EF1397226CA698CA81",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "timestamp": 487717.48236,
+  "type": "Document",
+  "response": {
+    "url": "http://indane.co.in/",
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+      "Pragma": "no-cache",
+      "Content-Type": "text/html",
+      "Content-Encoding": "gzip",
+      "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "Vary": "Accept-Encoding",
+      "Server": "Microsoft-IIS/8.5",
+      "Set-Cookie": "PHPSESSID=hl9uhn7on56ct8em4g3i1b0vo3; path=/; domain=indane.co.in; secure; HttpOnly\nPHPSESSID=hl9uhn7on56ct8em4g3i1b0vo3; expires=Fri, 20-Apr-2018 06:39:29 GMT; path=/; domain=indane.co.in; secure; httponly\nInd-%3FP1%3FIndane=JDDCKIMA; Expires=Thu, 19-Apr-2018 20:39:31 GMT; Path=/; Secure; HttpOnly",
+      "strict-transport-security": "max-age=43200",
+      "X-Powered-By": "ASP.NET",
+      "X-Powered-By-Plesk": "PleskWin",
+      "Access-Control-Allow-Origin": "https://indane.co.in/",
+      "Access-Control-Allow-Headers": "Content-Type, Accept, X-Requested-With, X-File-Name",
+      "Access-Control-Allow-Methods": "GET, POST",
+      "X-Frame-Options": "SAMEORIGIN",
+      "Date": "Thu, 19 Apr 2018 18:39:29 GMT",
+      "Content-Length": "13845"
+    },
+    "headersText": "HTTP/1.1 200 OK\r\nCache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0\r\nPragma: no-cache\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nExpires: Thu, 19 Nov 1981 08:52:00 GMT\r\nVary: Accept-Encoding\r\nServer: Microsoft-IIS/8.5\r\nSet-Cookie: PHPSESSID=hl9uhn7on56ct8em4g3i1b0vo3; path=/; domain=indane.co.in; secure; HttpOnly\r\nSet-Cookie: PHPSESSID=hl9uhn7on56ct8em4g3i1b0vo3; expires=Fri, 20-Apr-2018 06:39:29 GMT; path=/; domain=indane.co.in; secure; httponly\r\nstrict-transport-security: max-age=43200\r\nX-Powered-By: ASP.NET\r\nX-Powered-By-Plesk: PleskWin\r\nAccess-Control-Allow-Origin: https://indane.co.in/\r\nAccess-Control-Allow-Headers: Content-Type, Accept, X-Requested-With, X-File-Name\r\nAccess-Control-Allow-Methods: GET, POST\r\nX-Frame-Options: SAMEORIGIN\r\nDate: Thu, 19 Apr 2018 18:39:29 GMT\r\nContent-Length: 13845\r\nSet-Cookie: Ind-%3FP1%3FIndane=JDDCKIMA; Expires=Thu, 19-Apr-2018 20:39:31 GMT; Path=/; Secure; HttpOnly\r\n\r\n",
+    "mimeType": "text/html",
+    "requestHeaders": {
+      "Host": "indane.co.in",
+      "Connection": "keep-alive",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en-US,en;q=0.9"
+    },
+    "requestHeadersText": "GET / HTTP/1.1\r\nHost: indane.co.in\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\n",
+    "connectionReused": false,
+    "connectionId": 108,
+    "remoteIPAddress": "111.118.188.196",
+    "remotePort": 80,
+    "fromDiskCache": false,
+    "fromServiceWorker": false,
+    "encodedDataLength": 954,
+    "timing": {
+      "requestTime": 487716.744524,
+      "proxyStart": -1,
+      "proxyEnd": -1,
+      "dnsStart": 1.454,
+      "dnsEnd": 246.157,
+      "connectStart": 246.157,
+      "connectEnd": 483.821,
+      "sslStart": -1,
+      "sslEnd": -1,
+      "workerStart": -1,
+      "workerReady": -1,
+      "sendStart": 484.105,
+      "sendEnd": 484.186,
+      "pushStart": 0,
+      "pushEnd": 0,
+      "receiveHeadersEnd": 735.838
+    },
+    "protocol": "http/1.1",
+    "securityState": "neutral"
+  },
+  "frameId": "AD6449639D21B075DB8859BFC05327DD"
+}{
+  "requestId": "5054.28",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "timestamp": 487738.07567,
+  "type": "Image",
+  "response": {
+    "url": "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP////Ly8v///yH5BAEAAAMALAAAAAABAAEAAAICVAEAOw==",
+    "status": 200,
+    "statusText": "OK",
+    "headers": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "image/gif"
+    },
+    "mimeType": "image/gif",
+    "connectionReused": false,
+    "connectionId": 0,
+    "fromDiskCache": false,
+    "fromServiceWorker": false,
+    "encodedDataLength": 0,
+    "protocol": "data",
+    "securityState": "unknown"
+  },
+  "frameId": "AD6449639D21B075DB8859BFC05327DD"
+}

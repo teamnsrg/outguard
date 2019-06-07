@@ -1,0 +1,447 @@
+{
+  "requestId": "A57CD7461C1421EF1397226CA698CA81",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "http://indane.co.in/",
+    "method": "GET",
+    "headers": {
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36",
+      "X-DevTools-Emulate-Network-Conditions-Client-Id": "AD6449639D21B075DB8859BFC05327DD"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487716.743261,
+  "wallTime": 1524163171.10283,
+  "initiator": {
+    "type": "other"
+  },
+  "type": "Document",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.2",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/css/style.css?i=6",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.670329,
+  "wallTime": 1524163172.0299,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 7
+  },
+  "type": "Stylesheet",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.3",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/css/reset.css",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.670743,
+  "wallTime": 1524163172.03031,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 8
+  },
+  "type": "Stylesheet",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.4",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/css/menu.css",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.671084,
+  "wallTime": 1524163172.03065,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 9
+  },
+  "type": "Stylesheet",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.5",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/Scripts/AC_RunActiveContent.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.671759,
+  "wallTime": 1524163172.03133,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 76
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.6",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/jquery-2.2.0.min.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.672125,
+  "wallTime": 1524163172.0317,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 78
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.7",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/common.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.672451,
+  "wallTime": 1524163172.03202,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 79
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.8",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/SHA256.js?i=1",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.672846,
+  "wallTime": 1524163172.03242,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 80
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.9",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/css/homeserviceslider.css",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.673464,
+  "wallTime": 1524163172.03303,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 106
+  },
+  "type": "Stylesheet",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.10",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/jquery.scrollbox.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.674162,
+  "wallTime": 1524163172.03373,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 107
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.11",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/slider/slider.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.674566,
+  "wallTime": 1524163172.03414,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 138
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.16",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/images/homeicon.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.722205,
+  "wallTime": 1524163172.08178,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 484
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.17",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/js/menu.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Medium",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.723268,
+  "wallTime": 1524163172.08284,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 535
+  },
+  "type": "Script",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.18",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/images/indane-mobileapp.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.727029,
+  "wallTime": 1524163172.0866,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 912
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.19",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/images/fule-ioc-logo.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.727199,
+  "wallTime": 1524163172.08677,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 914
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.20",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/images/Xsparsh-logo.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.727351,
+  "wallTime": 1524163172.08692,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 915
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.21",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "https://indane.co.in/images/m-power-logo.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "http://indane.co.in/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3370.0 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487717.727478,
+  "wallTime": 1524163172.08705,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 916
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}{
+  "requestId": "5054.28",
+  "loaderId": "A57CD7461C1421EF1397226CA698CA81",
+  "documentURL": "http://indane.co.in/",
+  "request": {
+    "url": "data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP////Ly8v///yH5BAEAAAMALAAAAAABAAEAAAICVAEAOw==",
+    "method": "GET",
+    "headers": {},
+    "mixedContentType": "none",
+    "initialPriority": "VeryLow",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 487738.075441,
+  "wallTime": 1524163192.43501,
+  "initiator": {
+    "type": "parser",
+    "url": "http://indane.co.in/",
+    "lineNumber": 361
+  },
+  "type": "Image",
+  "frameId": "AD6449639D21B075DB8859BFC05327DD",
+  "hasUserGesture": false
+}

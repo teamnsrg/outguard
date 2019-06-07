@@ -1,0 +1,2757 @@
+{
+  "requestId": "A4497575D7B874AC92BBE287D73B242F",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "http://seriesfree.to/",
+  "request": {
+    "url": "http://seriesfree.to/",
+    "method": "GET",
+    "headers": {
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.133351,
+  "wallTime": 1523385771.69959,
+  "initiator": {
+    "type": "other"
+  },
+  "type": "Document",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "A4497575D7B874AC92BBE287D73B242F",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "http://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.134787,
+  "wallTime": 1523385771.70103,
+  "initiator": {
+    "type": "other"
+  },
+  "redirectResponse": {
+    "url": "http://seriesfree.to/",
+    "status": 301,
+    "statusText": "Moved Permanently",
+    "headers": {
+      "Location": "https://seriesfree.to/",
+      "Date": "Tue, 10 Apr 2018 18:42:25 GMT",
+      "Server": "nginx/1.10.3",
+      "Connection": "keep-alive",
+      "Content-Length": "185",
+      "Content-Type": "text/html"
+    },
+    "headersText": "HTTP/1.1 301 Moved Permanently\r\nServer: nginx/1.10.3\r\nDate: Tue, 10 Apr 2018 18:42:25 GMT\r\nContent-Type: text/html\r\nContent-Length: 185\r\nConnection: keep-alive\r\nLocation: https://seriesfree.to/\r\n\r\n",
+    "mimeType": "text/html",
+    "requestHeaders": {
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Connection": "keep-alive",
+      "Accept-Encoding": "gzip, deflate",
+      "Host": "seriesfree.to",
+      "Accept-Language": "en-US,en;q=0.9",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "requestHeadersText": "GET / HTTP/1.1\r\nHost: seriesfree.to\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: en-US,en;q=0.9\r\n",
+    "connectionReused": false,
+    "connectionId": 154,
+    "remoteIPAddress": "91.230.121.139",
+    "remotePort": 80,
+    "fromDiskCache": false,
+    "fromServiceWorker": false,
+    "encodedDataLength": 197,
+    "timing": {
+      "requestTime": 23678167.976037,
+      "proxyStart": -1,
+      "proxyEnd": -1,
+      "dnsStart": 0.543002039194107,
+      "dnsEnd": 136.54600083828,
+      "connectStart": 136.54600083828,
+      "connectEnd": 269.083000719547,
+      "sslStart": -1,
+      "sslEnd": -1,
+      "workerStart": -1,
+      "workerReady": -1,
+      "sendStart": 269.209001213312,
+      "sendEnd": 269.250001758337,
+      "pushStart": 0,
+      "pushEnd": 0,
+      "receiveHeadersEnd": 402.322001755238
+    },
+    "protocol": "http/1.1",
+    "securityState": "neutral"
+  },
+  "type": "Document",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.2",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/css/d.min.css",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16051,
+  "wallTime": 1523385771.72675,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 25
+  },
+  "type": "Stylesheet",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.3",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/css/styles.min.css",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.160747,
+  "wallTime": 1523385771.72699,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 27
+  },
+  "type": "Stylesheet",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.4",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/img/logo.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.160972,
+  "wallTime": 1523385771.72721,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 204
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.5",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/77/Legends_of_Tomorrow-1539336.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.161154,
+  "wallTime": 1523385771.72739,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 257
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.6",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/88/The_Crossing-1740281.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.161363,
+  "wallTime": 1523385771.7276,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 282
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.7",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/34/Scorpion-674723.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.161543,
+  "wallTime": 1523385771.72778,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 308
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.8",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/56/iZombie-1117220.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.161724,
+  "wallTime": 1523385771.72796,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 333
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.9",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/American_Dad_-21430.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.161899,
+  "wallTime": 1523385771.72814,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 358
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.10",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/64/UnReal-1267250.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.162092,
+  "wallTime": 1523385771.72833,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 383
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.11",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Kevin_Can_Wait_-1643301.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.162277,
+  "wallTime": 1523385771.72852,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 408
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.12",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Man_with_a_Plan_-1646060.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.162455,
+  "wallTime": 1523385771.72869,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 433
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.13",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/The_Walking_Dead-19273.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16263,
+  "wallTime": 1523385771.72887,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 461
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.14",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/69/Lucifer-1364443.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.162793,
+  "wallTime": 1523385771.72903,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 486
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.16",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/85/Late_Night_with_Seth_Meyers_-1685520.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.163004,
+  "wallTime": 1523385771.72924,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 553
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.17",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/42/Made_in_Chelsea-837529.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.163208,
+  "wallTime": 1523385771.72945,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 578
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.18",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/30/Steven_Universe-582382.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.163398,
+  "wallTime": 1523385771.72964,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 603
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.19",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/30/Plebs-581918.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.163599,
+  "wallTime": 1523385771.72984,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 628
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.20",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/img/noPoster32.png",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.163833,
+  "wallTime": 1523385771.73007,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 653
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.22",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/25/Love_Hip_Hop_Atlanta-492386.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.164069,
+  "wallTime": 1523385771.73031,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 703
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.23",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/85/Vanderpump_Rules_-1683559.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.164272,
+  "wallTime": 1523385771.73051,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 728
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.25",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/86/Leave_It_to_Stevie_-1712514.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16506,
+  "wallTime": 1523385771.7313,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 778
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.27",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/3/Comic_Book_Men-45105.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16524,
+  "wallTime": 1523385771.73148,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 828
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.33",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/34/Fast_N_Loud-665611.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.168589,
+  "wallTime": 1523385771.73483,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 928
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.34",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Marcella_-1657679.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.168843,
+  "wallTime": 1523385771.73508,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 953
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.36",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/American_Idol-34686.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16904,
+  "wallTime": 1523385771.73528,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1003
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.39",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/The_Middle_-19025.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.16928,
+  "wallTime": 1523385771.73552,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1085
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.40",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/34/Black_ish-676307.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.169456,
+  "wallTime": 1523385771.73569,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1110
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.41",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/The_Real_Housewives_of_Beverly_Hills-34314.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.169647,
+  "wallTime": 1523385771.73589,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1135
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.42",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Holby_City-18285.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.169808,
+  "wallTime": 1523385771.73605,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1160
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.43",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/Chopped-34841.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.169977,
+  "wallTime": 1523385771.73622,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1185
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.44",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/84/Gift_vid_f_rsta_gonkastet_USA_-1677190.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.170194,
+  "wallTime": 1523385771.73643,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1210
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.45",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/America_s_Next_Top_Model-19525.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.170393,
+  "wallTime": 1523385771.73663,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1235
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.46",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Tosh_0-18244.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.170631,
+  "wallTime": 1523385771.73687,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1260
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.47",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/34/The_Flash-679002.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.170819,
+  "wallTime": 1523385771.73706,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1285
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.48",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/3/Ink_Master-45145.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.170984,
+  "wallTime": 1523385771.73722,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1310
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.49",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Lethal_Weapon_-1642767.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.171142,
+  "wallTime": 1523385771.73738,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1335
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.50",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/30/Ex_on_the_Beach-586669.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.171316,
+  "wallTime": 1523385771.73755,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1360
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.51",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/86/Legion_-1715950.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.172605,
+  "wallTime": 1523385771.73884,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1385
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.52",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/77/Chicago_Med-1536400.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.172783,
+  "wallTime": 1523385771.73902,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1410
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.53",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/76/Adam_Ruins_Everything-1503423.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.172942,
+  "wallTime": 1523385771.73918,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1435
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.54",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/35/Schitt_s_Creek-694659.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.173128,
+  "wallTime": 1523385771.73937,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1460
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.55",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/78/Shadowhunters-1542424.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.17329,
+  "wallTime": 1523385771.73953,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1485
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.56",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/71/Forged_in_Fire-1402438.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.17344,
+  "wallTime": 1523385771.73968,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1510
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.58",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Good_Bones_-1655879.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.173623,
+  "wallTime": 1523385771.73986,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1560
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.60",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Modern_Family-19537.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.173796,
+  "wallTime": 1523385771.74003,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1617
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.61",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/57/Chicago_P_D_-1136779.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.173961,
+  "wallTime": 1523385771.7402,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1642
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.62",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Criminal_Minds-18934.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.174122,
+  "wallTime": 1523385771.74036,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1667
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.63",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/29/The_Goldbergs-570610.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.174265,
+  "wallTime": 1523385771.7405,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1692
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.65",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/The_Real_Housewives_of_New_York_City-34870.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.179155,
+  "wallTime": 1523385771.74539,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1742
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.66",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/American_Housewife_-1644248.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.179344,
+  "wallTime": 1523385771.74558,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1767
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.69",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/86/Star_-1711412.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.179552,
+  "wallTime": 1523385771.74579,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1842
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.70",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/29/The_Blacklist-570605.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.179699,
+  "wallTime": 1523385771.74594,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1867
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.71",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/84/Little_Women_LA_-1677416.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.17985,
+  "wallTime": 1523385771.74609,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1892
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.73",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/27/The_Americans-530781.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180029,
+  "wallTime": 1523385771.74627,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1942
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.74",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/35/Empire-693429.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180176,
+  "wallTime": 1523385771.74641,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1967
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.75",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/Suits-35726.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180338,
+  "wallTime": 1523385771.74658,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 1992
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.77",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Benidorm-19063.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180507,
+  "wallTime": 1523385771.74675,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2042
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.78",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Survivor-18405.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180668,
+  "wallTime": 1523385771.74691,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2067
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.79",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/78/The_Expanse-1541568.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.180818,
+  "wallTime": 1523385771.74706,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2092
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.97",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/Game_of_Thrones-22818.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.187572,
+  "wallTime": 1523385771.75381,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2563
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.98",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/40/Silicon_Valley-785752.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.187783,
+  "wallTime": 1523385771.75402,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2588
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.99",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/3/American_Horror_Story-41719.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.187955,
+  "wallTime": 1523385771.75419,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2613
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.100",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/The_Vampire_Diaries-18597.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.188182,
+  "wallTime": 1523385771.75442,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2638
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.101",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/Hawaii_Five_0-19428.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.188809,
+  "wallTime": 1523385771.75505,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2663
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.103",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/2/The_Big_Bang_Theory-20285.PNG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.189002,
+  "wallTime": 1523385771.75524,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2713
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.104",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/1/How_I_Met_Your_Mother-19641.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.189154,
+  "wallTime": 1523385771.75539,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2738
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.105",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/static/32/83/Westworld_-1643293.JPEG",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.189377,
+  "wallTime": 1523385771.75562,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2763
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.106",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/js/jquery.min.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Medium",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.189536,
+  "wallTime": 1523385771.75577,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2871
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.107",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/js/app.min.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Medium",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.189733,
+  "wallTime": 1523385771.75597,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2877
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.108",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://c1.popads.net/pop.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.313437,
+  "wallTime": 1523385771.87968,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "21",
+          "url": "https://seriesfree.to/",
+          "lineNumber": 52,
+          "columnNumber": 17
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.209",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/fonts/fontawesome-webfont.woff2",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+      "Referer": "https://seriesfree.to/css/d.min.css",
+      "Origin": "https://seriesfree.to"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.352761,
+  "wallTime": 1523385771.919,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 2871
+  },
+  "type": "Font",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.214",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://www.google-analytics.com/analytics.js",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.668951,
+  "wallTime": 1523385772.23519,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "27",
+          "url": "https://seriesfree.to/",
+          "lineNumber": 2881,
+          "columnNumber": 70
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.215",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/userNav",
+    "method": "POST",
+    "headers": {
+      "Accept": "*/*",
+      "Referer": "https://seriesfree.to/",
+      "Origin": "https://seriesfree.to",
+      "X-Requested-With": "XMLHttpRequest",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+    },
+    "postData": "ajax=1&ref=https%3A%2F%2Fseriesfree.to%2F",
+    "hasPostData": true,
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.691536,
+  "wallTime": 1523385772.25777,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "send",
+          "scriptId": "24",
+          "url": "https://seriesfree.to/js/jquery.min.js",
+          "lineNumber": 3,
+          "columnNumber": 25548
+        }
+      ]
+    }
+  },
+  "type": "XHR",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.216",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.695476,
+  "wallTime": 1523385772.26171,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "send",
+          "scriptId": "24",
+          "url": "https://seriesfree.to/js/jquery.min.js",
+          "lineNumber": 3,
+          "columnNumber": 26954
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.217",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://www.google-analytics.com/r/collect?v=1&_v=j66&a=73048007&t=pageview&_s=1&dl=https%3A%2F%2Fseriesfree.to%2F&ul=en-us&de=UTF-8&dt=Watch%20Series%20Online%20FREE%2C%20full%20episodes%20-%20Series%20Free&sd=24-bit&sr=1920x1080&vp=1905x934&je=0&_u=IEBAAEAB~&jid=791890861&gjid=1517828829&cid=1448176081.1523385772&tid=UA-106006036-1&_gid=1616495571.1523385772&_r=1&z=981702401",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.749429,
+  "wallTime": 1523385772.31567,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 0
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.218",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://serve.popads.net/c?r=1523385772&v=3&siteId=2555759&minBid=&popundersPerIP=&blockedCountries=&documentRef=&s=1920,1080,1,1920,1080",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+      "Referer": "https://seriesfree.to/",
+      "Origin": "https://seriesfree.to"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678169.756918,
+  "wallTime": 1523385772.32316,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "23",
+          "url": "https://c1.popads.net/pop.js",
+          "lineNumber": 3,
+          "columnNumber": 1483
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.219",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://c.adsco.re/",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678170.107948,
+  "wallTime": 1523385772.67419,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "29",
+          "url": "https://serve.popads.net/c?r=1523385772&v=3&siteId=2555759&minBid=&popundersPerIP=&blockedCountries=&documentRef=&s=1920,1080,1,1920,1080",
+          "lineNumber": 1,
+          "columnNumber": 177
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.220",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://c.adsco.re/xi",
+    "method": "GET",
+    "headers": {
+      "Purpose": "prefetch",
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryLow",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678170.115682,
+  "wallTime": 1523385772.68192,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 0
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.221",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://6.adsco.re/",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678170.135875,
+  "wallTime": 1523385772.70211,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "R",
+          "scriptId": "30",
+          "url": "https://c.adsco.re/",
+          "lineNumber": 47,
+          "columnNumber": 366
+        }
+      ]
+    }
+  },
+  "type": "Script",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.222",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://127.0.0.222/nonexistent",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "Low",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.082426,
+  "wallTime": 1523385773.64866,
+  "initiator": {
+    "type": "parser",
+    "url": "https://seriesfree.to/",
+    "lineNumber": 0
+  },
+  "type": "Image",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "CCDF0921C1D15AA6BEB7537DCF0992FA",
+  "loaderId": "CCDF0921C1D15AA6BEB7537DCF0992FA",
+  "documentURL": "https://c.adsco.re/xi",
+  "request": {
+    "url": "https://c.adsco.re/xi",
+    "method": "GET",
+    "headers": {
+      "Upgrade-Insecure-Requests": "1",
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "VeryHigh",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.114674,
+  "wallTime": 1523385773.68091,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "30",
+          "url": "https://c.adsco.re/",
+          "lineNumber": 46,
+          "columnNumber": 97
+        }
+      ]
+    }
+  },
+  "type": "Document",
+  "frameId": "F03CDE041E1AA8E7A82461CD8C3709CB"
+}{
+  "requestId": "2781.224",
+  "loaderId": "CCDF0921C1D15AA6BEB7537DCF0992FA",
+  "documentURL": "https://c.adsco.re/xi",
+  "request": {
+    "url": "https://c.adsco.re/xi",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://c.adsco.re/xi",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.23948,
+  "wallTime": 1523385773.80572,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "",
+          "scriptId": "144",
+          "url": "https://c.adsco.re/xi",
+          "lineNumber": 0,
+          "columnNumber": 405
+        }
+      ]
+    }
+  },
+  "type": "XHR",
+  "frameId": "F03CDE041E1AA8E7A82461CD8C3709CB"
+}{
+  "requestId": "2781.225",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.298028,
+  "wallTime": 1523385773.86427,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.226",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.298554,
+  "wallTime": 1523385773.86479,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.227",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.298955,
+  "wallTime": 1523385773.86519,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.228",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.299276,
+  "wallTime": 1523385773.86551,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.229",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.29956,
+  "wallTime": 1523385773.8658,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.230",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.29983,
+  "wallTime": 1523385773.86607,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.231",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.300118,
+  "wallTime": 1523385773.86636,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.232",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.300397,
+  "wallTime": 1523385773.86664,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.233",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.300686,
+  "wallTime": 1523385773.86692,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.234",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.300964,
+  "wallTime": 1523385773.8672,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.235",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.301765,
+  "wallTime": 1523385773.868,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.236",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.302022,
+  "wallTime": 1523385773.86826,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.237",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.30229,
+  "wallTime": 1523385773.86853,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.238",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.302564,
+  "wallTime": 1523385773.8688,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.239",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.302848,
+  "wallTime": 1523385773.86909,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.240",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.303113,
+  "wallTime": 1523385773.86935,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.241",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "blob:https://seriesfree.to/9af8e471-74ec-4576-8261-eddc66b9d071",
+    "method": "GET",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.30339,
+  "wallTime": 1523385773.86963,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "JobThread",
+          "scriptId": "145",
+          "url": "https://coinhive.com/lib/coinhive.min.js?_=1523385772228",
+          "lineNumber": 0,
+          "columnNumber": 12602
+        }
+      ]
+    }
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.243",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://adsco.re/",
+    "method": "POST",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36",
+      "Referer": "https://seriesfree.to/",
+      "Origin": "https://seriesfree.to"
+    },
+    "postData": "¢\u0010+\u0018¸\u0001â\r\u0005$\u0013$\u0017\u0007 J>8¢i!\f,\u00186pM@!O!\u0016Çl#KUå\t,\u0018Ø\u0003P\u0005\u0004à\u001cã\u0006P\u0004Z@Z\u0018,\u0000!\u001e¸\u001e \u001cD=X\u0001\u0000hbG\n;\u0012U\u00008AÝ\u0002\u0010\u001f D6\\aO·\u0004J9*\u0000wNq\u0000\u00053êlØ\u0000(\u0000¤\u0001ôxjÏ9kYkHätzµ9Rf _D9WY mU\u0003p{|\u0001\"\u0002H\u0000©/ï70\u0006×\u0000º\u001b©0 ^zQ@pTdDång\bÜk0 toQ3Ü4\u0000\\u\u0003 xÊ(5¶Fg[Ë+÷C\tnÀ\u0002I\u0001EC Q´\u0012füPmO\u0011Ü;Ê`(o *»\rv:(++\u0002ÜN \\I8%:[Vfs;ÚT\u0017aâ\u0015¡\u0005C\u001e`\u0018´\u0000 8 Y`\u0006r\u0006´5FJ\u000e$89.æ\u0005ìQ9Qf\rd)UlF\u0000Â`\u0000b\u0002\u0012;\u0000ªK\u0001\u0011xm\u0014!f/@pfÜ\u0000B8\u0007pA tl\u0006*eI\u0010§({A\u0004¨>Ð`ÒR \u0006*\u0001J(ÃTëM$(h< @\u0002\u0016¹/JTJs\u001aÂ'(pV\u0004Ñ\u00181.\u0003Ð\u0011Î&n(\u0016\u0013F.#`z&f!@ùRi*]\u001af\f¸qmrás^)\u0002`YN\u000e\u0001\u001f\u0011\u0001lL­YÁ:*`\u0004È\"t<¤\u0000\u0006lô5¥\u0007Qc0(£\u0000á`t\"/\u0006õ\u0003H_\\Q;ÿ\u00117\u00123vô\f`EÐ\u0011\u0001\u001fïSi\u0004g\u0015iB\u0006N \u0019P#iM®\u0019÷]xw/\u000fT\u0001xl(\u0006àL§+'\u0006 ?\u0016\u0018 \n0\u0003\u0017A-\u0014ã@\u0010 %\b o0\u0016VÏvdUO~S\\.~+\u0010O@\u0016^2\u0000&\u0018\u001eAÄ\u0002¤xJB\u0000,\u0000X%|\u0004àGh\u001b\u0016V#\rp\u001f\u001a\u001d2X$\u001ew\u001c\u0019l\u0007)\u0018oj\u0004à\u0003]8ã%:\u0019á\u0005\"\u001a`\u0001\\\b«\u0003qbc\u0004H0\u0003\u000b\\(\u0007=#\u0000øT3Ge4\u0013©hD\u0013!e&Âq§\u0000@'\u000f=@m\u00061IF*))\u0001Ð!a=mb+6ZpD1i$ê\u0014´eÅ\"\u001c%.\bd\u0011*3\u0011)*Ó\u0010\r0@%\u0000\u000334fX\u0002]s\"±\u001eè\u0004;\u0011Q\u0017g\u0016p\u001c³T½Y\u001cv9¡*xA*\u0011áp§7Ýt%\u0012ìp#\u0012aF¦\u0017ÜF]v(}UÁsÝa\nEVPUN_m\u0000\u000b,$À$R\u0014±Ace@£am.M¬u$t G'\u0012\u001cvÖH \u0000´^Ã\u0000\u0015a%\u0016²\b\n:\u0000$\u0010 \u0000H\u001d\u0000\f:Q°\u000b\u0014À\u0000 \u001eÏ\u000fà8ë&~q)&\u0011B»4 `¿4úeHh¡@4w\u001bbjF<\u0011L\u0010VX\u0000«Køh\u000e\u0016È!%\u001b\u001f8(\u0014Aè\u0017Þ.3\r¹`\"\u000f b\"u\u000f\u0004O³\u001d\u000b\u00197\u001d\u000b+×d\u000f?o\\\u000b&?=\r,\u001f~$6à\u0003?t°\u0003¦rCôa!#.\u0005¤`Ã^²#:\u0003c%^\u0018d¼päP»t?~\u0012V²H$\u0002H\u00100?^¹V]\u000e2\u0005>:3pe±\b \u0010m\u0015{\b:jÂmèHµKô;Í\u0004Ëqñ\u0015\u0017ªV5$j 5tø\"+(µ-áNà@\"XÛ4ÁI\u001b\u0002\u0003\u00013\fI\u001b,oIÐ8\u001eeÇ\u001d#f\u001b\u001f{q\u0007\u001f\u001f9Ö\u001e64Ç\u001c\u000f\u0005(;\u0015#·\u001cS7\u001fú7÷\u000b\u0011\u001b\u001e\u001fd#j@N`A\u0018w\u0019ûs\u0019~h½p,I\u0007\u0001\"T \u0001\u001b)kYÀ=,XÞ\u0001ì#,\u0002*hh.þVÈ\u0002RÖ\u0000ã\u0005»!)b4Lü\u0003ú!¯\t20/\u0002\u000b\nO?î\u0015fp\u001b&TY¯A`\u0000ëZ CM}Ï9&\b>)@\u0000*X0P0\t6x½\u0000\u0003\u001f´;Þ\u000b4+u\u001cb\r\rà\u000e\u0019\u000fg_@2E\\|\r\u0004à\u0014\u0000f\u001cP\u0010\u000e&WÞD!\u0001Yxå\f£R6}2.iÔ`á!9r\u001b\"l!HDhI§-\u0018p\u0004(U:\u001dô\n2zð|¢\tl8\u00111%, \u001b$6N\bæ\u0005IV\u0006I¨\u00060\u0015\u0002By\u0017$Xb@ó3\\`p\u0005OP×vðdè90y'\b1T&G\u0005*P\u0016ò\u0007\u0002¹>\u0018\u000f©\u001fty£\u0000#nàb.t3.ÊdépÐHà\u0003/\u0010Ø\u0000r\u0012L\u000b \u0000 \u000f'Hì\u000b\u0001pm\u0000\té\u001cQ!\u001e48½8+Bp\u0000bª&¹P \n©gy\u0012»@àp*\u0002[@¢w'(\u0001AÌE¾N*@ç3Xnv'$\u00016\f\u0002-0ûV}G@=à@h\u000f?\u001e\u000b\u00072èT!A&x\\ø.KI\u000fAÑ\\\nà\u0002\"H\u0007@P.;\u0010\u001f\rr\u00120)\u0007Ê7T%­\u0001|\u001e cç\u0016|RÒ\bRm\u0011\"P\\2Mä$ F\u0001J\u0007³Z\u000fw`Bb\u0000¿!\u0013Ì\u001e`0\u0004-P\\\u0002©{ V(\u000b(./\\<aA\u0017(8ørV\u000b|(ö\u000e+U\u000bq\u0015¡i\u00012IT\u001cù\u0017N\u001c2\u0012D\u0002®\u000eô2à\u0007'~´A7\u001a¥4°C'6n\u0019r-?$zX\u0002ícQ\n=>|ür\",#\\¦Q}BÑ\u0005\u0004#?~ða!@Ee¢\u0004\u0011\u0010A&6¥BE\u0007'\u0002#`/\"eÈeá\u000f%\u001ap\"ë)pÖ\u0001¢/ðDè[&xJÀ^1\u0000\u0011\u0019X\u001aDyaS0\u0010\u0000\u0003/I5aRP'\u0001lã77a2aaaç\u0012@\u0011§D\b*\u0007/\nÊH \f$\u0004¸We9ZdÁD\f2\u001a&p!d\u0003\\Ka\u0000%|Ê\u0003ÊMYpÐ#é\u0011Ù@\u0007ÇF½jt\u000bVH\u0010Ö?Jy\u0012\r#[åu\u0001X(pÁ9É=OsJ\u0017\u0019}yØwénFrj?v¬xZ($TB\u0006\u001bw`\u0006N2\\ E<\fçY{S(\u0018Ðy\u00050\u0003\u001dô#¯r\u0010\u0006x\n3v°8#\u00021¹A%&³`%V'4@\u0000\u0001\f4hdMÒ\f¼|T[ihx\u0010n­\n6@\u0000\fÇZ´Iu\u0017 )þTqB¹Zè\u0014¤\\YDè\u000b+\u001c\u0014aõ\u0017ø\u0000g!'\fN J \u0000 \u0000",
+    "hasPostData": true,
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.609282,
+  "wallTime": 1523385774.17552,
+  "initiator": {
+    "type": "script",
+    "stack": {
+      "callFrames": [
+        {
+          "functionName": "I",
+          "scriptId": "30",
+          "url": "https://c.adsco.re/",
+          "lineNumber": 8,
+          "columnNumber": 220
+        }
+      ]
+    }
+  },
+  "type": "XHR",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}{
+  "requestId": "2781.244",
+  "loaderId": "A4497575D7B874AC92BBE287D73B242F",
+  "documentURL": "https://seriesfree.to/",
+  "request": {
+    "url": "https://seriesfree.to/favicon.ico",
+    "method": "GET",
+    "headers": {
+      "Referer": "https://seriesfree.to/",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36"
+    },
+    "mixedContentType": "none",
+    "initialPriority": "High",
+    "referrerPolicy": "no-referrer-when-downgrade"
+  },
+  "timestamp": 23678171.618723,
+  "wallTime": 1523385774.18496,
+  "initiator": {
+    "type": "other"
+  },
+  "type": "Other",
+  "frameId": "53C7E302121BE36846D309EE04C4BB71"
+}
