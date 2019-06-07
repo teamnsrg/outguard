@@ -32,7 +32,8 @@ For visualization purposes, you can also simply load the trace file using ```chr
 
 ## Feature Extraction 
 To extract features used in Outguard, ```parsing_module.py``` should be called in the ```parser``` folder. 
-As set of examples are located at ```outguard/parser/tracing``` folder. 
+While it is not recommended to upload large files directly to the repo, some examples are
+located at ```outguard/parser/tracing``` folder. 
 
 ``` 
 $ python parser_module.py -d trace -o myoutput 
