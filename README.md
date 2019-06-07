@@ -36,7 +36,7 @@ While it is not recommended to upload large files directly to the repo, some exa
 located at ```outguard/parser/tracing``` folder. 
 
 ``` 
-$ python parser_module.py -d trace -o myoutput 
+$ python parser_module.py -d trace -o myoutput.csv 
 
 ``` 
 
