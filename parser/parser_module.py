@@ -126,7 +126,6 @@ class CryptoDetect(object):
                           
         except Exception as e: print(e)
 
-
     def parallel_tasks(self,raw_events):
         tid = {}
         try:
@@ -154,6 +153,7 @@ class CryptoDetect(object):
             
         
         except Exception as e: print(e)   
+    
     def workers(self,raw_events):
         try:
             worker_count =0
@@ -174,12 +174,14 @@ class CryptoDetect(object):
             #print parallel_worker
             self.no_workers = len(workers_id)
         except Exception as e: print(e)
+   
     def path_creation(self, file_path):
         self.devtools_file = file_path
         print ("[+] parsing %s"%self.devtools_file)
         f_in = open("./"+self.target_folder+"/"+self.devtools_file.split(".devtools.trace")[0]+"/"+self.devtools_file,'r')
         #f_in = open("./"+self.target_folder+"/"+self.devtools_file,'r')
         return f_in
+   
     def feature_setup(self):
 
         features = []
@@ -207,21 +209,16 @@ class CryptoDetect(object):
                     'messageloop_load','postmessage_load','parallel_functions']
         
             writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
-            #writer = csv.writer(filename, delimiter=',')
+
             if not file_exists:
                 writer.writerow(headers)  # file doesn't exist yet, write a header
-
-   
-      
-            #writer.writerow(header)
+            
             writer.writerow(vectors)
        
 
     def process(self,options):
-    
 
         for root, dir, files in os.walk(self.target_folder):
-
           try:
             for datafile in files:
               if datafile.endswith(".devtools.trace"):
@@ -244,7 +241,6 @@ class CryptoDetect(object):
                 #print self.postmessage
                 #print self.parallel_functions
                 detection_features = self.feature_setup()
-
                 self.output_file(detection_features)
                 self.reset(options)
 
