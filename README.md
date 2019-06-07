@@ -19,14 +19,28 @@ To create a labeled dataset of cryptojacking websites, we build a nodejs module 
 The nodejs module can identify different types of cryptojacking libraries. The corresponding data is located in js_fingerprint path. Make sure the latest version of Nodejs. 
 
 ```
- node driver_engine.js http://bbc.com
+ node driver_engine.js http://seriesfree.to
 ```
-The collected cryptojacking websites were then visited by the customized instrumented browser to record the interaction of the libraries with browser resources and train the automatic model. 
-
+The nodejs module labeled seriesfree.to as an instance of CoinHive mining website. After running such a simple source code 
+scanning at scale, we visited each crypomining website using the  customized instrumented browser to record the interaction of the libraries with browser resources and train the automatic model. The instrumented browser is using devtool protocol.   
 The outputs of the instrumented browser are two 
-files: (1) a [nettrace] file which contains the networking traffic of the website, and (2) a [cpuprofile] file which contains the 
+files: (1) files which contain the networking traffic of the website, and (2) a devtool trace file which contains the 
 cpu profiling trace after loading the javascript code of a given website. 
 Similar to the standard devtool api, you need to run the code on port 9222 to enable the module to interact with the debugging protocol. 
+
+For visualization purposes, you can also simply load the trace file using ```chrome://tracing```. 
+
+## Feature Extraction 
+To extract features used in Outguard, ```parsing_module.py``` should be called in the ```parser``` folder. 
+As set of examples are located at ```outguard/parser/tracing``` folder. 
+
+``` 
+$ python parser_module.py -d trace -o myoutput 
+
+``` 
+
+
+
 
 ## Citation 
 ```
