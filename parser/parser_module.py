@@ -21,6 +21,7 @@ import gzip
 import logging
 import re
 import urlparse
+import csv
 
 
 
@@ -197,13 +198,27 @@ class CryptoDetect(object):
             features.append(0)
         print "[+] Corresponding features: %s"%(features)
         return features
+
+    def output_file(self,vectors):
+     
+        file_exists = os.path.isfile(self.out_file)
+        with open (self.out_file, 'a') as csvfile:
+            headers = ['websocket','wasm','hash_function','webworkers', 
+                    'messageloop_load','postmessage_load','parallel_functions']
+        
+            writer = csv.writer(csvfile, delimiter=',', lineterminator='\n')
+            #writer = csv.writer(filename, delimiter=',')
+            if not file_exists:
+                writer.writerow(headers)  # file doesn't exist yet, write a header
+
+   
+      
+            #writer.writerow(header)
+            writer.writerow(vectors)
+       
+
     def process(self,options):
-        
-        
-        try:
-            labeled_data = open(self.out_file,"a")
-        except IOError:
-            labeled_data = open(self.out_file, "w")
+    
 
         for root, dir, files in os.walk(self.target_folder):
 
@@ -230,10 +245,7 @@ class CryptoDetect(object):
                 #print self.parallel_functions
                 detection_features = self.feature_setup()
 
-
-                json.dump(detection_features, labeled_data)
-                labeled_data.write(os.linesep)
-                labeled_data.flush()
+                self.output_file(detection_features)
                 self.reset(options)
 
                
