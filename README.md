@@ -60,4 +60,4 @@ classification results for the unlabled set. Some samples are provides.
 }
 ```
 ## Contacts
-Please send an email to kharraz@illinois.edu if you have any questions. 
+Please send an email to kharraz(AT)illinois(DOT)edu if you have any questions. 
